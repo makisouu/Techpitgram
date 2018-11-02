@@ -8,6 +8,7 @@ Instagram風SNSサービス
 Techpit Marketさん（https://market.techpit.jp/）       
 主催の勉強会で作ったSNSサイトです．
 
+#### 主な機能
 1．ユーザー登録　　  
 2．ログイン・ログアウト　　  
 3．投稿  

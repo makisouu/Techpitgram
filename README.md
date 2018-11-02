@@ -15,7 +15,6 @@ Techpit Marketさん（https://market.techpit.jp/）　　
 5．投稿編集・削除 
 6．マイページ  
 7．いいね   
-8．パスワード再設定 
 
 #### 開発環境
 OS: Mac OSX 10.11.6  

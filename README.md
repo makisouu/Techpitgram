@@ -5,7 +5,7 @@
 
 #### 概要
 Instagram風SNSサービス  
-Techpit Marketさん（https://market.techpit.jp/）　　
+Techpit Marketさん（https://market.techpit.jp/）       
 主催の勉強会で作ったSNSサイトです．
 
 1．ユーザー登録　　  

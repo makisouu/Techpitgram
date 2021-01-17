@@ -40,4 +40,4 @@ OS: Mac OSX 10.11.6
 -----------
 　  
 #### 5、マイページ編集 画面
-![editMyPage.jpg](https://github.com/y-sugiyama654/Techpitgram/blob/images/images/editMyPage.jpg)
+![editMyPage.jpg](https://github.com/y-sugiyama654/Techpitgram/blob/images/images/editMyPage.jpg) 
